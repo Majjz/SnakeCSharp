@@ -1,2 +1,2 @@
 # SnakeCSharp
-A little snake game
+A fantastic snake game
